@@ -1,0 +1,78 @@
+.layafamily img{
+	width: 100%
+}
+.Company{
+	background-color: #ffffff;
+	padding:90px 0 60px 0;
+}
+.Company h3{
+	margin-top:36px;
+	line-height: 32px;
+}
+.Company h5{
+	margin-top: 13px;
+	line-height: 32px;
+	text-indent: 2em;
+	margin-top:20px;
+}
+.Company .pa{
+	padding-top:121px;
+}
+.recruit{
+	padding: 110px 0 80px;
+	background-color: #8cc11f;
+}
+.recruit h1{
+	color: #fff;
+	margin-bottom: 50px;
+}
+.recruit p{
+	font-size: 16px;
+	color: #fff;
+	line-height: 32px;
+	margin-bottom: 10px;
+}
+.recruit .youxiang{
+	width: 216px;height: 45px;
+	background-color: #fff;
+	color:#8cc11f;
+	font-size: 16px;
+	line-height: 45px;
+	text-align: center;
+	border-radius: 5px;
+	margin-bottom: 10px;
+}
+.as3 {
+	padding: 50px 0;
+}
+.as3 ul{
+	list-style: none;
+	padding: 0;
+}
+.as3 ul>li{
+	padding: 70px 0 60px;
+	border-bottom: 1px solid #d2d2d2;
+}
+.as3 ul li h1{
+	font-size: 26px;
+	color: #8cc11f;
+	margin-bottom: 30px;
+}
+.as3 ul li ol li{
+	font-size: 14px;
+	color: #2a2a2a;
+	margin: 8px 0;
+}
+.as3 ul .wuwu{
+	border-bottom:0 ;
+}
+.Contact{
+	background-color: #f4f4f4;
+	padding: 40px 0;
+}
+.Contact .eww{
+	margin-top: 20px;
+	background-color: #fff;
+	padding: 12px 12px 20px 12px;
+	font-size: 16px;
+}

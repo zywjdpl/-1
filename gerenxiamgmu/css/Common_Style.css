@@ -1,0 +1,82 @@
+
+body{
+	padding-top:50px;
+}
+.main_box{
+	max-width:1366px;
+	margin:0 auto;
+}
+
+.header{
+	max-width:1366px;
+	background:#222;
+	margin:0 auto;
+}
+.header .navbar{
+	margin:0;
+}
+.header .navbar-default {
+    background-color: #222;
+    border-color: #222;
+}
+.header .navbar-brand {
+    padding:7px;
+}
+.header .navbar-default .navbar-nav > li > a {
+    color:#9b9b9b;
+}
+@media(max-width: 995px) and (min-width:745px){
+	.header .navbar-default .navbar-nav > li > a {
+	    padding:15px 5px;
+	    font-size: 12px;
+	}
+}
+.header .navbar-default .navbar-nav > .active > a {
+    background: #080808;
+    color:#fff;
+
+}
+.header .navbar-default .navbar-nav > li > a:hover {
+    background: #080808;
+    color:#fff;
+}
+
+
+
+
+
+
+
+.Layabox3{
+	max-width:1366px;
+	padding: 30px 0 36px;
+	background: #3b3b3b;
+	margin: 0 auto;
+}
+.Layabox3 p{
+	font-size: 14px;
+	color: #a1a3ab;
+}
+
+@media(max-width: 500px){
+	.Layabox3{
+	padding: 0 ;
+
+	}
+}
+.Layabox3 .tupian{
+	width: 40px;height: 38px;
+	float: left;
+	margin: 0 5px;
+	position: relative;
+}
+.Layabox3 .tupian2{
+	width: 200px;height: 0px;
+	position: absolute;
+	right:-110px; top:-154px;
+	z-index: 100;
+	overflow: hidden;
+}
+.Layabox3 .tupian:hover .tupian2{
+	height: 200px;
+}

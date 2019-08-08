@@ -1,0 +1,110 @@
+.header{
+	background: #000;
+}
+.LayaFlash{
+	background:#8bc01f; 
+	padding: 65px 0  94px 0;
+}
+ .bg{
+	height: 55px;width: 55px;
+	background-color: #fff;
+	float: left;
+	text-align: center;
+	color: #8bc01f;
+	font-size: 48px;
+	border-radius: 5px;
+}
+
+.one{
+	line-height: 55px;
+	color: #fff;
+	font-size: 48px;
+}
+.LayaFlash  .as3{
+	font-size: 24px;
+	color: #fff;
+	margin-bottom: 50px;
+}
+.LayaFlash  p{
+	font-size: 14px;
+	color: #fff;
+	margin: 15px 0;
+	padding-left: 15px;
+}
+.LayaFlash  .jr{
+	width: 102px;height: 34px;
+	background-color: #fff;
+	color: #8bc01f;
+	font-size: 14px;
+	text-align: center;
+	line-height: 34px;
+	border-radius: 5px;
+	margin: 30px 0 0 15px;
+}
+
+.LayaPlayer{
+	background:#3393df; 
+	padding: 65px 0 58px 0;
+}
+.LayaPlayer h3{
+	color: #fff;
+}
+.bp{
+	color: #3393df;
+
+}
+.LayaPlayer h5{
+	color: #fff;
+	line-height: 35px;
+}
+.LayaPlayer .feiji{
+	margin-top: 147px;
+}
+
+
+.LayaAir{
+	padding:90px 0  80px;
+}
+ h2{
+	color: #3393df;
+	font-size: 42px;
+	line-height: 42px;
+}
+ h2 .pailie{
+	height: 42px;width: 42px;
+	background-color: #3393df;
+	float: left;
+	text-align: center;
+	color: #fff;
+	font-size: 42px;
+	border-radius: 3px;
+}
+.LayaStore{
+	padding:90px 0  80px;
+	background-color: #f7f7f7;
+}
+.ppp{
+	padding-right: 100px;
+}
+.yi{
+	margin: 20px 0 30px;
+	color: #5d5d5d;
+}
+h4{
+	color:#3393df;
+}
+h5{
+	color: #5d5d5d;
+	text-indent: 2em;
+	line-height: 26px;
+	margin: 15px 0 35px;
+}
+.img{
+	text-align: center;
+}
+@media(max-width: 750px){
+	.LayaAir,.LayaStore,.LayaPlayer,.LayaFlash{
+	padding:  0 ;
+	}
+	
+}

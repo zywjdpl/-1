@@ -1,0 +1,154 @@
+
+.hezuo{
+	max-width:1366px;
+	background: #f4f4f4;
+	padding: 37px 0 46px;
+	margin: 0 auto;
+}
+.hezuo h1 span{
+	font-size: 11px;
+	color: #777777;
+}
+.hezuo .zhou{
+	margin: 10px 0;
+}
+
+
+
+
+.banner{
+	width: 100%;
+}
+
+.LayaFlash{
+	width: 100%;
+	background:#fbfaf7;
+	padding:70px 0 50px;
+}
+.LayaFlash h1{
+	font-size: 47px;
+	color:#0078d7;
+}
+.LayaFlash h2{
+	color:#666666;
+	margin-bottom:50px;
+}
+.LayaFlash .Flash > div{
+	margin-bottom: 40px;
+}
+@media(max-width: 500px){
+	.LayaFlash{
+		padding:0;
+	}
+	.LayaFlash h1{
+		font-size: 30px;
+	}
+	.LayaFlash h2{
+		font-size: 18px;
+	}
+}
+
+.Layabox{
+	width: 100%;
+	padding:90px 0 70px;
+}
+.Layabox h1{
+	font-size: 47px;
+	color:#8fc31f;
+	margin-bottom:40px
+}
+.Layabox .container .box{
+	padding-top: 70px;
+}
+.Layabox .container .row .col-lg-7  ul li{
+	margin: 8px 0;
+}
+@media(max-width: 500px){
+	.Layabox {
+		padding:0;
+	}
+	.Layabox h1{
+		font-size: 30px;
+		margin-bottom:0;
+	}
+}
+
+.Layabox2{
+	padding: 100px 0 135px 0;
+	background: #0079d7;
+}
+.Layabox2 h1{
+	color: #fff;
+	font-size: 47px;
+	text-align: center;
+}
+.Layabox2 .container  .row .lol{
+	margin-top:82px;
+}
+.Layabox2 .container  .row .lol {
+	color: #fff;
+	font-size: 14px;
+}
+.Layabox2 .container  .row .lol h4{
+	font-size: 32px;
+}
+.Layabox2 .container  .row .lol .lol2{
+	margin-right:57px;
+}
+@media(max-width: 500px){
+	.Layabox2 {
+		padding:0;
+	}
+	.Layabox2 h1{
+	font-size: 30px;
+	text-align: left;
+	}
+	.Layabox2 .container  .row .lol .lol2{
+	margin-right:0px;
+	}
+	.Layabox2 .container  .row .lol{
+	margin-top:15px;
+	}
+	
+	.Layabox2 .container  .row .lol {
+	font-size: 12px;
+	}
+	.Layabox2 .container  .row .lol h4{
+	font-size: 18px;
+	}
+}
+
+.Layaboxyouxi{
+	width: 100%;
+	padding: 83px 0 40px ;
+}
+.Layaboxyouxi .wang{
+	margin-bottom:30px;
+	text-align: center;
+}
+.Layaboxyouxi .iii{
+	padding-left: 40px;
+}
+.Layaboxyouxi h1{
+	font-size: 34px;
+	margin-bottom: 45px;
+	color: #2a2a2a;
+}
+@media(max-width: 500px){
+	.Layaboxyouxi{
+	padding:  0 ;
+	}
+	.Layaboxyouxi h1{
+	font-size: 30px;
+	margin-bottom: 0px;	
+}
+
+@media(max-width: 500px){
+	.hezuo{
+	padding: 0 ;
+	}
+}
+
+
+
+

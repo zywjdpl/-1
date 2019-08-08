@@ -1,0 +1,49 @@
+.remeng{
+	padding-bottom: 80px;
+}
+
+.remeng .col-sm-8 h2{
+
+	margin:43px 0  10px;
+}
+.remeng .wwww{
+	text-align: right;
+}
+.remeng h6{
+	line-height: 30px;
+	color: #898989;
+	margin:0; 
+	}	
+.remeng .tu{
+	margin: 26px 0 10px;
+}
+.remeng h1{
+	margin-top:124px;
+}
+.remeng h5{
+	text-align: center;
+	width: 300px;
+	line-height: 30px;
+}
+ .remeng .anli{
+ 	margin-top:40px;
+ }
+ .anli {
+ 	position: relative;
+ }
+ .anli  div{
+ 	position: absolute;
+ 	top: -133px;
+ 	width: 303px;
+ 	height: 133px;
+ 	background: rgb(47,24,2,0.5);
+ 	display: none;
+ 	color: #fff;
+ 	padding:13px;	
+ 	transition:all 1s;
+ }
+ .anli:hover div{
+ 	display: block;
+ 	top: 0px;
+ 	transform:scale(1);
+ }
